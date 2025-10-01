@@ -7,12 +7,12 @@
 
 
 Assalamualaikum Everyone!  
-**Welcome to My 𝖧𝖠𝖭𝖩𝖠𝖫𝖠 CHAT BOT Fork!**
+**Welcome to My 𝗛𝗔𝗡𝗝𝗔𝗟𝗔 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧 Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+![Box-shaped Image](https://imgur.com/a/uW99NQK.png)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">𝖧𝖠𝖭𝖩𝖠𝖫𝖠 CHAT BOT</span><br>
+  <span style="font-size: 24px; font-weight: bold;">𝗛𝗔𝗡𝗝𝗔𝗟𝗔 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</span><br>
   <span> Develop By 𝖧𝖠𝖭𝖩𝖠𝖫𝖠 𝖪𝖧𝖠𝖭</span>
 </p>
 
@@ -136,8 +136,8 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`𝖧𝖠𝖭𝖩𝖠𝖫𝖠 𝖪𝖧𝖠𝖭`**  
-**Nice Name:** **`𝖧𝖠 𝖲𝖨`**  
+**Name:** **`𝗛𝗔𝗡𝗝𝗔𝗟𝗔 𝗞𝗛𝗔𝗡`**  
+**Nice Name:** **`𝗞𝗛 𝗔𝗡`**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
 **Location:** **`K𝖴𝖫𝖭𝖠 , BANGLADESH`**  
 
@@ -177,9 +177,9 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 ## ✨🌟 Special Thanks 🌟✨
 
-- 🚀 **Cyber Bot Team**  
-- 🧙‍♂️ **Ullash (Owner Cyber Bot Team)**
-- 🛡️ **Sujon (Admin Cyber Bot Team)**
+- 🚀 **𝐻𝐴𝑁𝐽𝐴𝐿𝐴 𝐵𝑂𝑇 𝑇𝐸𝐴𝑀**  
+- 🧙‍♂️ **𝗛𝗔𝗡𝗝𝗔𝗟𝗔 (Owner 𝐴𝐷𝐷𝐴 𝑀𝐴𝑆𝑇𝐼 𝑉𝐼𝑃 𝐵𝑂𝑋)**
+- 🛡️ **𝗝𝗢𝗬 (Admin 𝐴𝐷𝐷𝐴 𝑀𝐴𝑆𝑇𝐼 𝑉𝐼𝑃 𝐵𝑂𝑋)**
 - 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
 
 ---
@@ -202,4 +202,4 @@ Please do not disturb the admin unless you have a special need. Thank you!
   <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
 
-**I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
+**I hope you enjoy my fork! Thank you for supporting the 𝐴𝐷𝐷𝐴 𝑀𝐴𝑆𝑇𝐼 𝑉𝐼𝑃 𝐵𝑂𝑋  community!**
